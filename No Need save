@@ -1,0 +1,19 @@
+[33mcommit 81f77dccdb005fb7f773946a32860f6e30a4e297[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Author: Faroja <86199530+Faroja@users.noreply.github.com>
+Date:   Mon Feb 3 15:36:30 2025 +0700
+
+    Revert "update kedua testing"
+    
+    This reverts commit 70ec5ea0666de1e4284e3b6a6930270c12101214.
+
+[33mcommit 70ec5ea0666de1e4284e3b6a6930270c12101214[m
+Author: Faroja <86199530+Faroja@users.noreply.github.com>
+Date:   Mon Feb 3 15:22:38 2025 +0700
+
+    update kedua testing
+
+[33mcommit d2da0f566c584c398935e2e7e6ddab5dbf340533[m
+Author: Faroja <86199530+Faroja@users.noreply.github.com>
+Date:   Mon Feb 3 15:18:48 2025 +0700
+
+    perubahan file

@@ -1,0 +1,24 @@
+      Functions				Commands
+Check file status			=> 	git status
+Add file to staging area		=>	git add <namaFile.xyz>  // add just a file
+ 		git add .		// add all files
+Remove file from staging area	=>	git rm --cached <namaFile.xyz> // remove just a file
+       (when commit history empty)      git rm --cached *	              // remove all files
+Remove file from staging area	=>	git restore --staged <namaFile.xyz> // remove just a file
+       (when commit history not empty)	git restore --staged .		  // remove all files
+Making commit/checkpoint		=> git commit –m “description”
+See commit history		        => git log
+git log --oneline
+git checkout <commit_id> 	        // checkout 
+git checkout master 		        // go back   	
+git reset <commit_id>                   // comeback to certain commit
+git reset <commit_id>  --hard           // comeback to certain commit and delete after commit
+git branch <namaBranch>			// making branch
+git branch –a 				// See all branch
+git checkout <namaBranch> 		// Working branch
+git checkout -b <namaBranch>		// git checkout -b <namaBranch>
+git branch -D <namaBranch>		// delete branch
+git checkout master			// See Master Branch
+git merge <namaBranch>			// Merge branch master and other branch *merge the commit history too
+git merge --squash <namaBranch>		// merge only the changes, and we need to make a new commit
+

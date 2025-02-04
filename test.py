@@ -1,6 +1,8 @@
-list_buku = ["Laskar Pelangi", "Ayat-Ayat Cinta", "Genius Kampus"]
 
-for index, buku in enumerate(list_buku):
-    print(index, buku)
-add_new_variabel = "apala"
-nambah_lagi = 'faroja'
+def good_morning(name):
+    global greeting
+    greeting = 'Good Night'
+    print(f"{greeting}, {name}!") 
+greeting = 'Good Morning'
+#output apa?
+good_morning("Alice")

@@ -1,0 +1,6 @@
+1. Tugas Mutia komen -> bisa pakai return untuk Kembali ke menu Utama dari menu filter
+2. Tugas Yohanes -> flow nya tidak sesuai, dimain menu tidak ada penambahan dan delete, lalu untuk filter ya baiknya jangan di guard sampai nemu buku yang ada, karena dalam real case nya memang si orang ini engga kebayang penerbit itu ada apa aja siapa tau spesfik ingin nyari penerbit A tapi gatau nama penerbit lain, nah didatabse ternyata ga ada ya jadi infinite loop kalua guard nya kayak gitu.
+3. Tugas Achmad Muzzani -> di spek perlu ditanyakan dulu mau filter atau tidak, setelah menampilkan data, jika ini capstone pasti pengurangan nilai, untuk delete atau update data baik nya ada konfirmasi ini loh data yang bakal ditambah atau didelete cukup tampilkan 1 row data yang bakal ditambah.
+4. Bintang -> Flow function udah bagus banget rapih cuma fitur 1 nya ga ada kelupaan show data nya.
+5. Rebecca, Leonard, Rikal,Liswatun Naimah Bagus juga ya udah versi lebih rapih dari Bintang
+6. Ikhsani, Faiz udah bagus cuma kurang aja di main app nya bukan sebagai function
