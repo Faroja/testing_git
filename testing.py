@@ -1,1 +1,0 @@
-nambah_sesuatu = 1000
